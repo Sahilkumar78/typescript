@@ -27,7 +27,7 @@ TypeScript with JavaScript Projects
 
 💻 How to Use This Repo
 Clone this repository 
-git clone https://github.com/your-username/typescript-tutorial.git
+git clone https://github.com/Sahilkumar78/typescript.git
 cd typescript-tutorial
 npm install
 
