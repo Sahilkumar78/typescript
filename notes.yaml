@@ -1,0 +1,59 @@
+tsc -- init -> ye lihne se tsconfig.json file mil jaegi
+
+ts file ko compile karne ke liye -> tsc <filename> 
+ eg: tsc app.ts
+
+auto compile like nodemon in js :
+ use tsc --watch 
+ it will automatically complie code
+
+ chapter-2- basic data types 
+ {
+    1)primitive types: number, string , boolean
+    2) Arrays
+    3)Tuples
+    4)Enums -> Enumerations
+    5)Any, Unknown, Void, Null, Undefined, Never
+    
+    they are all primitives and reference data types
+ }
+
+ chapter-3 -> introduction to classes and objects{
+    1) classes and objects
+    2) class definition
+    3)constructors
+    4)Access modifiers(public, private , protected)
+    5)Readonly properties
+    6) Optional properties
+    7) Parameter properties
+    8) Getters and setters
+    9) Static members
+    10) Abstract classes and methods
+ }
+
+ chapter-4 -> Introduction to Functions
+      1) Functions
+      2) Functions types
+      3) optional and default paramters
+      4) Rest parameters
+      5) Overloads
+
+ chapter-5 -> 1)Generics Fuctions
+              2) Generic interfaces
+              3) Generic classes
+ chapter-6 -> Modules
+             1) Exporting and Importing modules
+             2) Default exports
+      
+ chapter-7 -> Type Assertion
+           1) Type assertion
+           2) Type casting
+           3) Non-null assertion operator
+ 
+ chapter-8 -> Type Guards
+            1) type guards and ts utility types
+            2) using typeof and instanceof
+            3) Partial, Required, Readonly
+
+         # this series ends here -> 05/05/2025
+               
