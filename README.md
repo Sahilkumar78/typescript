@@ -3,33 +3,33 @@ Welcome to the official repository for my TypeScript Tutorial for Beginners 🎥
 In this tutorial, you'll learn everything you need to get started with TypeScript — from basic types to interfaces, functions, and classes.
 
 📌 Topics Covered
-What is TypeScript?
+ What is TypeScript?
 
-Installing TypeScript
+ Installing TypeScript
 
-Type Annotations & Type Inference
+ Type Annotations & Type Inference
 
-Union & Literal Types
+ Union & Literal Types
 
-Arrays, Tuples, and Enums
+ Arrays, Tuples, and Enums
 
-Functions with TypeScript
+ Functions with TypeScript
 
-Interfaces & Type Aliases
+ Interfaces & Type Aliases
 
-Classes and Access Modifiers
+ Classes and Access Modifiers
 
-Generics
+ Generics
 
-Type Narrowing
+ Type Narrowing
 
-TypeScript with JavaScript Projects
+ TypeScript with JavaScript Projects
 
-💻 How to Use This Repo
-Clone this repository 
-git clone https://github.com/Sahilkumar78/typescript.git
-cd typescript-tutorial
-npm install
+💻 How to Use This Repo:
+ Clone this repository 
+ git clone https://github.com/Sahilkumar78/typescript.git
+ cd typescript-tutorial
+ npm install
 
 To compile TypeScript code:
 
